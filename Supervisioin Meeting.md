@@ -16,14 +16,19 @@ Predictive Maintenance experiment;\
 Need to get data synchronized;(Protocol, eg, UPC OA)\
 Algorithm enhanced!! (The innovation point). 
 
+**Paulo's Data-driven Digital twin project, from event log to what-if scenarios**
+**Journal co-authorship**\
+5 hours per week; till early August.
+
+
 **Preference-based Reinforcement Learning:**\
 Possible to publish something ASAP? Since it is the newly published algorithm in 2023; Nobody has done anything in this field with this algorithm. It is very suitable with my study.\
 **Journal or Conference?** \
-How to choose a proper conference? \ 
+How to choose a proper conference? 
 
 **Systematic or Comprehensive Literature Review on what AI have been used on Predictive Maintenance study:**\
 Nobody has done this; Also a pre-study; 
-**Journal or Conference?** \
+**Journal or Conference?** 
 
 **Production planning collaboration with Ninan using SII-Lab model** 
 
@@ -36,3 +41,5 @@ Nobody has done this; Also a pre-study;
 Pros and Cons 
 
 ## Continue with individual study plan 
+
+
