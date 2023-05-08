@@ -8,8 +8,9 @@ Meeting with Jon and Ebru
 ## Possible Publication in this year:
 **VCC Image Analysis case:**\
 **Journal?**\
+**Main Focus**\
 Compare different algorithms; (Alibi-detect; OpenCV) \
-Questions: Possible to buy study book and get reimbursed? 
+Questions: Possible to buy study books and get reimbursed? E-book possible.
 
 **SII-Lab digital twin model:**\
 Predictive Maintenance experiment;\
