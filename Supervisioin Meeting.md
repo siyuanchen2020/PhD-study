@@ -6,7 +6,7 @@ PhD study Progress
 Meeting with Jon and Ebru
 
 ## Possible Publication in this year:
-**VCC Image Analysis case: **\
+**VCC Image Analysis case:**\
 **Journal?**\
 Compare different algorithms; (Alibi-detect; OpenCV) \
 Questions: Possible to buy study book and get reimbursed? 
@@ -19,5 +19,20 @@ Algorithm enhanced!! (The innovation point).
 **Preference-based Reinforcement Learning:**\
 Possible to publish something ASAP? Since it is the newly published algorithm in 2023; Nobody has done anything in this field with this algorithm. It is very suitable with my study.\
 **Journal or Conference?** \
-How to choose a conference? \ 
+How to choose a proper conference? \ 
 
+**Systematic or Comprehensive Literature Review on what AI have been used on Predictive Maintenance study:**\
+Nobody has done this; Also a pre-study; 
+**Journal or Conference?** \
+
+**Production planning collaboration with Ninan using SII-Lab model** 
+
+**AGV routing path optimization with Deep Reinforcement Learning**
+
+**Upcoming Scania data in IMAP project**
+
+
+## Supervisor Proposal from Sunith
+Pros and Cons 
+
+## Continue with individual study plan 
