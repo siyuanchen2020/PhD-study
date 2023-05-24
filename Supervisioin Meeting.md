@@ -43,4 +43,8 @@ Pros and Cons
 
 ## Continue with individual study plan 
 
+# Supervision Meeting 2023 May 24
+Meeting with Jon and Ebru
+
+## Research Plan Discussion
 
