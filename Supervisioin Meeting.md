@@ -69,6 +69,6 @@ Problem: No data and related support.
 
 **4.Upcoming Scania data in IMAP project**
 
-## Potential summer work
+## Potential work during summer
 Deep learning study;\
 Demo realization, for example, output the SII-Lab model data to external layer and connect it with algorithm.
