@@ -49,7 +49,7 @@ Meeting with Jon and Ebru
 ## Research Plan Discussion
 
 
-# Supervision Meeting 2023 May 09
+# Supervision Meeting 2023 June 08
 Meeting with Anders, Jon, and Ebru
 
 ## Research Plan Discussion
