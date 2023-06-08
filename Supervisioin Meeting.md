@@ -60,14 +60,14 @@ Deep Learning & Reinforcement Learning enhanced data-driven Digital Twin support
 Algorithm connected;\
 OPC UA Protocol to get data synchronized.
 
-**2.VCC Computer Vision Outlier Detection Analysis:**
+**2.VCC Computer Vision Outlier Detection Analysis:**\
 Alibi-detect;\
 Anomalib;
 
-**3.Preference-based Reinforcement Learning support Maintenance Decision Making:**
+**3.Preference-based Reinforcement Learning support Maintenance Decision Making:**\
 Problem: No data and related support.
 
-**4.Upcoming Scania data in IMAP project**
+**4.Upcoming Scania data in IMAP project**\
 
 ## Potential work during summer
 Deep learning study;\
