@@ -48,3 +48,27 @@ Meeting with Jon and Ebru
 
 ## Research Plan Discussion
 
+
+# Supervision Meeting 2023 May 09
+Meeting with Anders, Jon, and Ebru
+
+## Research Plan Discussion
+Deep Learning & Reinforcement Learning enhanced data-driven Digital Twin support Maintenance Decision Making
+
+## Possible Publication in this year
+**1.SII-Lab digital twin model:**\
+Algorithm connected;\
+OPC UA Protocol to get data synchronized.
+
+**2.VCC Computer Vision Outlier Detection Analysis:**
+Alibi-detect;\
+Anomalib;
+
+**3.Preference-based Reinforcement Learning support Maintenance Decision Making:**
+Problem: No data and related support.
+
+**4.Upcoming Scania data in IMAP project**
+
+## Potential summer work
+Deep learning study;\
+Demo realization, for example, output the SII-Lab model data to external layer and connect it with algorithm.
