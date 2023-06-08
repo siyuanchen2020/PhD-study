@@ -65,7 +65,7 @@ Alibi-detect;\
 Anomalib;
 
 **3.Preference-based Reinforcement Learning support Maintenance Decision Making:**\
-Problem: No data and related support.
+Problem: No data and related project support.
 
 **4.Upcoming Scania data in IMAP project**\
 
