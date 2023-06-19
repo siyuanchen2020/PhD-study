@@ -72,3 +72,15 @@ Problem: No data and related project support.
 ## Potential work during summer
 Deep learning study;\
 Demo realization, for example, output the SII-Lab model data to external layer and connect it with algorithm.
+
+# Supervision Meeting 2023 June 20
+Meeting with Jon
+
+## Systematic Literature Review
+
+## Possible Publication Ideas
+**1.Literature Review of Reinforcement Learning for Decision Making in Maintenance**\
+Define the decision-making pool for maintenance, how do other authers and researchers set up the environment of maintenance?\
+
+
+**2.Deep Reinforcement Learning for Case Study for SII-Lab Model**
