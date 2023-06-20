@@ -79,12 +79,15 @@ Meeting with Jon
 ## Systematic Literature Review
 
 ## Possible Publication Ideas
+
 **1.Literature Review of AI tools for Decision Making in Maintenance & Practical problems and Requirements from Industry**\ 
+
 Determine the decision-making pool for maintenance, how do other authers and researchers set up the environment of maintenance?\
 Find the intersection between research and industry.\
 Interview from industry practitioners.\
 Literature review: What kinds of AI tools | to what extent | How | Scores | Effectiveness to support decision making in smart maintenance. 
 
 
-**2.User Case: Deep Reinforcement Learning for Case Study for SII-Lab Model**
+**2.User Case: Deep Reinforcement Learning for Case Study for SII-Lab Model**\
+
 Could be as a part of literature review as a case study.
