@@ -91,3 +91,20 @@ Literature review: What kinds of AI tools | to what extent | How | Scores | Effe
 **2.User Case: Deep Reinforcement Learning for Case Study for SII-Lab Model**\
 
 Could be as a part of literature review as a case study.
+
+
+# Supervision Meeting 2023 June 27
+Meeting with Jon
+
+## Literature Review Proposal for Summer
+
+**1.Research Question: What are the recent advancements, challenges, and future directions in applying deep learning techniques to improve predictive maintenance and optimize equipment performance within the digital twin framework in the field of manufacturing maintenance?** 
+
+Keywords: Deep Learning; Digital Twins; Manufacturing Maintenance.\
+
+Search Query: "Deep Learning" AND "Digital Twins" AND (Predictive AND Maintenance). 291 documents found. \
+
+In deep learning, we have several interesting algorithms: Convolutional Neural Networks (CNNs); Recurrent Neural Networks (RNNs);Long Short-Term Memory (LSTM);Generative Adversarial Networks (GANs); Autoencoders; Reinforcement Learning (RL). 
+
+**2.Research Question: 
+
