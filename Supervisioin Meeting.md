@@ -106,5 +106,11 @@ Search Query: "Deep Learning" AND "Digital Twins" AND (Predictive AND Maintenanc
 
 In deep learning, we have several interesting algorithms: Convolutional Neural Networks (CNNs); Recurrent Neural Networks (RNNs);Long Short-Term Memory (LSTM);Generative Adversarial Networks (GANs); Autoencoders; Reinforcement Learning (RL). 
 
-**2.Research Question: 
+**2.Research Question: What are the potential benefits and challenges of integrating blockchain technology with digital twins to optimize smart maintenance processes?**
+
+Keywords: Blockchain; Digital Twins; Manufacturing Maintenance.\
+
+Search Query: "Digital Twins" AND "Blockchain" AND (Predictive AND Maintenance). 464 documents found. 
+
+**3.Research Question: 
 
