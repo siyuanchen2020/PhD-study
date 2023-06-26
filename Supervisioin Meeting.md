@@ -100,25 +100,25 @@ Meeting with Jon
 
 **1.Research Question: What are the recent advancements, challenges, and future directions in applying deep learning techniques to improve predictive maintenance and optimize equipment performance within the digital twin framework in the field of manufacturing maintenance?** 
 
-Keywords: Deep Learning; Digital Twins; Manufacturing Maintenance.\
+Keywords: Deep Learning; Digital Twins; Manufacturing Maintenance.
 
-Search Query: "Deep Learning" AND "Digital Twins" AND (Predictive AND Maintenance). 291 documents found. \
+Search Query: "Deep Learning" AND "Digital Twins" AND (Predictive AND Maintenance). 291 documents found. 
 
-In deep learning, we have several interesting algorithms: Convolutional Neural Networks (CNNs); Recurrent Neural Networks (RNNs);Long Short-Term Memory (LSTM);Generative Adversarial Networks (GANs); Autoencoders; Reinforcement Learning (RL). \
+In deep learning, we have several interesting algorithms: Convolutional Neural Networks (CNNs); Recurrent Neural Networks (RNNs);Long Short-Term Memory (LSTM);Generative Adversarial Networks (GANs); Autoencoders; Reinforcement Learning (RL). 
 
 Pros and cons: Quite broad; But nobody has explored in this field yet. Interesting field; Large contribution to doctoral study. 
 
 **2.Research Question: What are the potential benefits and challenges of integrating blockchain technology with digital twins to optimize smart maintenance processes?**
 
-Keywords: Blockchain; Digital Twins; Manufacturing Maintenance.\
+Keywords: Blockchain; Digital Twins; Manufacturing Maintenance.
 
-Title: Literature review for blockchain-based applications in Maintenance.\ 
+Title: Literature review for blockchain-based applications in Maintenance.
 
-Search Query: "Digital Twins" AND "Blockchain" AND (Predictive AND Maintenance). 464 documents found. \
+Search Query: "Digital Twins" AND "Blockchain" AND (Predictive AND Maintenance). 464 documents found.
 
-Some conclusions from other's literature review: In the context of Industry 4.0 predictive maintenance, researchers have proposed leveraging blockchain technology to achieve data transparency and traceability by storing asset manufacturer data. Sang et al. suggest the use of a blockchain for this purpose, although technical details are not provided. The data stored primarily consists of measurements and control data from the asset manufacturer, excluding production, defect, maintenance, and historical operational data. In another study, Mayer et al. explore real-world manufacturing scenarios and identify use cases for Distributed Ledger Technologies (DLTs), including subscription models for machines and tools. Their motivation aligns with establishing confidence in the responsible use of rented machines. Similarly, Bai et al. propose the Blockchain-based Platform for IIoT (BPIIoT), targeting a Production-as-a-Service model, where manufacturing owners can provide on-demand services facilitated by smart contracts. The studies emphasize the potential of blockchain in enhancing transparency and efficiency in smart maintenance and manufacturing contexts.\
+Some conclusions from other's literature review: In the context of Industry 4.0 predictive maintenance, researchers have proposed leveraging blockchain technology to achieve data transparency and traceability by storing asset manufacturer data. Sang et al. suggest the use of a blockchain for this purpose, although technical details are not provided. The data stored primarily consists of measurements and control data from the asset manufacturer, excluding production, defect, maintenance, and historical operational data. In another study, Mayer et al. explore real-world manufacturing scenarios and identify use cases for Distributed Ledger Technologies (DLTs), including subscription models for machines and tools. Their motivation aligns with establishing confidence in the responsible use of rented machines. Similarly, Bai et al. propose the Blockchain-based Platform for IIoT (BPIIoT), targeting a Production-as-a-Service model, where manufacturing owners can provide on-demand services facilitated by smart contracts. The studies emphasize the potential of blockchain in enhancing transparency and efficiency in smart maintenance and manufacturing contexts.
 
-Blockchain technology's potential for Predictive Maintenance: \ 
+Blockchain technology's potential for Predictive Maintenance: 
 
 * Data Integrity and Traceability: Blockchain can ensure the integrity and immutability of data used in predictive maintenance. By storing maintenance-related data in a decentralized and transparent manner, it becomes resistant to tampering or unauthorized modifications. This helps to establish a reliable and auditable record of maintenance activities, including sensor data, equipment performance, and maintenance logs.
 
@@ -130,6 +130,7 @@ Blockchain technology's potential for Predictive Maintenance: \
 
 * Incentivization and Tokenization: Blockchain-based systems can introduce incentive mechanisms through tokenization. By incentivizing equipment owners, manufacturers, and maintenance providers to contribute data or participate in the maintenance process, blockchain-based platforms can promote data sharing, collaboration, and continuous improvement in predictive maintenance practices.
 
+Previous Study:"Energy Saving by Blockchaining Maintenance", published on January 2019. It compares "Conventional  maintenance  strategy  versus  blockchain  based maintenance." 
 
 **3.Research Question: 
 
