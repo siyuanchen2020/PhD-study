@@ -130,7 +130,11 @@ Blockchain technology's potential for Predictive Maintenance:
 
 * Incentivization and Tokenization: Blockchain-based systems can introduce incentive mechanisms through tokenization. By incentivizing equipment owners, manufacturers, and maintenance providers to contribute data or participate in the maintenance process, blockchain-based platforms can promote data sharing, collaboration, and continuous improvement in predictive maintenance practices.
 
-Previous Study:"Energy Saving by Blockchaining Maintenance", published on January 2019. It compares "Conventional  maintenance  strategy  versus  blockchain  based maintenance." 
+Previous Study:
+
+* "Energy Saving by Blockchaining Maintenance", published on January 2019. It compares "Conventional  maintenance  strategy  versus  blockchain  based maintenance." 
+
+* "Machine-as-a-Service: Blockchain-based management and maintenance of industrial appliances", published on August 2022. 
 
 **3.Research Question: 
 
