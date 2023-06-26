@@ -154,5 +154,6 @@ Previous Study:
 
 Potential research collaboration: Yibin Xu, 4th year PhD student in University of Copenhagen, major in Blockchain technology. 
 
-**3.Research Question: 
+**3.Explanable AI for Smart Maintenance**
+There is a master thesis that study this field: [Explainable AI for Predictive Maintenance](https://www.diva-portal.org/smash/get/diva2:1746875/FULLTEXT02)
 
