@@ -122,6 +122,8 @@ Pros and cons: Quite broad; Interesting field; Large contribution to doctoral st
 
 Previous Study: "The Role of AI in Warehouse Digital Twins: Literature Review." Published on 2023 April 30th. 
 
+Potential Research Collaboration: PhD student in POLIMI. (connection from POLIMI tour). 
+
 **2.Research Question: What are the potential benefits and challenges of integrating blockchain technology with digital twins to optimize smart maintenance processes?**
 
 Keywords: Blockchain; Digital Twins; Manufacturing Maintenance.
@@ -146,9 +148,11 @@ Blockchain technology's potential for Predictive Maintenance:
 
 Previous Study:
 
-* "Energy Saving by Blockchaining Maintenance", published on January 2019. It compares "Conventional  maintenance  strategy  versus  blockchain  based maintenance." 
+* "Energy Saving by Blockchaining Maintenance", published on January 2019. It compares "Conventional maintenance strategy versus blockchain based maintenance." 
 
-* "Machine-as-a-Service: Blockchain-based management and maintenance of industrial appliances", published on August 2022. 
+* "Machine-as-a-Service: Blockchain-based management and maintenance of industrial appliances", published on August 2022.
+
+Potential research collaboration: Yibin Xu, 4th year PhD student in University of Copenhagen, major in Blockchain technology. 
 
 **3.Research Question: 
 
