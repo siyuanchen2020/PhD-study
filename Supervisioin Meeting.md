@@ -104,9 +104,23 @@ Keywords: Deep Learning; Digital Twins; Manufacturing Maintenance.
 
 Search Query: "Deep Learning" AND "Digital Twins" AND (Predictive AND Maintenance). 291 documents found. 
 
-In deep learning, we have several interesting algorithms: Convolutional Neural Networks (CNNs); Recurrent Neural Networks (RNNs);Long Short-Term Memory (LSTM);Generative Adversarial Networks (GANs); Autoencoders; Reinforcement Learning (RL). 
+In deep learning, we have several interesting algorithms: 
 
-Pros and cons: Quite broad; But nobody has explored in this field yet. Interesting field; Large contribution to doctoral study. 
+*Convolutional Neural Networks (CNNs); 
+
+*Recurrent Neural Networks (RNNs);
+
+*Long Short-Term Memory (LSTM);
+
+*Generative Adversarial Networks (GANs); 
+
+*Autoencoders; 
+
+*Reinforcement Learning (RL). 
+
+Pros and cons: Quite broad; Interesting field; Large contribution to doctoral study. 
+
+Previous Study: "The Role of AI in Warehouse Digital Twins: Literature Review." Published on 2023 April 30th. 
 
 **2.Research Question: What are the potential benefits and challenges of integrating blockchain technology with digital twins to optimize smart maintenance processes?**
 
