@@ -155,5 +155,11 @@ Previous Study:
 Potential research collaboration: Yibin Xu, 4th year PhD student in University of Copenhagen, major in Blockchain technology. 
 
 **3.Explanable AI for Smart Maintenance**
+
 There is a master thesis that study this field: [Explainable AI for Predictive Maintenance](https://www.diva-portal.org/smash/get/diva2:1746875/FULLTEXT02)
+
+Generative AI for Smart Maintenance: 
+
+[Generative AI example](https://www.verdantix.com/insights/blogs/how-generative-ai-will-revolutionize-industrial-operations)Predictive maintenance: Generative AI can produce new failure patterns and scenarios that may not be present in historical data, enabling more accurate predictions and adaptive maintenance plans. This surpasses traditional rule-based systems, which are limited to known patterns. Embassy of Things, an industrial software provider, launched Twin Talk GPT, a solution that leverages generative AI to help manufacturing and energy firms train and test predictive maintenance models. 
+
 
